@@ -1,5 +1,5 @@
 { 
 
-"link" : "http://www.orientechnologies.com/"
-
+"link" : "http://www.orientechnologies.com/",
+"short_description" : "distributed transactional graph database",
 }
