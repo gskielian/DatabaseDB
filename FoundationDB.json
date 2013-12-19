@@ -1,6 +1,6 @@
 {
  "name" : "FoundationDB",
- "link" : "https://foundationdb.com/"
+ "link" : "https://foundationdb.com/",
  "short_description" : "distrbuted NoSQL with ACID transactions",
  "free" : "false",
  "open_source" : "false"
