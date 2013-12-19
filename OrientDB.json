@@ -2,4 +2,6 @@
 "name" : "OrientDB",
 "link" : "http://www.orientechnologies.com/",
 "short_description" : "distributed transactional graph database"
+"free" : "FALSE",
+"open_source" : "FALSE
 }
