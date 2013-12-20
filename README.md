@@ -1,7 +1,7 @@
 DatabaseDB
 ==========
 
-Not what you're thinking.  A place for me to record stats on different databases -- in json.
+A place for recording stats on different databases -- in JSON format.
 
 
 Todo:
